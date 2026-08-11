@@ -23,6 +23,7 @@ This module integrates with five premium threat tracking endpoints mapped direct
 * **Feed 3 (czvaehmjpsnwwttrdoyl):** Exploitation sources, script vectors, and command controllers.
 * **Feed 4 (ghlzqtqxnzctvvajwwag):** IP addresses related to current web server hack and exploit attempts that have been logged
 * **Feed 5 (llvtlsjyoyiczbkjsxpf):** Known malicious spyware and adware IP Address ranges.
+* **Feed 6 (xpbqleszmajjesnzddhv):** Contains known Hackers and such people in it.
 
 ### Repository Layout
 
