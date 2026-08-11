@@ -10,8 +10,7 @@ text
 
 [ 48-Hour Interval ] ──> [ Authenticated Feed Ingestion (.gz) ] ──> [ Memory Stream Decompression ]
                                                                                 │
-[ Targeted Email Dispatch ] <── [ Fast People Search Link ] <── [ Reverse Google Geocoding ] 🏁
-
+[ Targeted Email Dispatch ] <── [ Fast People Search Link ] <── [ Reverse Google Geocoding ]
 Use code with caution.
 
 ### Configured Subscription Feeds
