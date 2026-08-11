@@ -18,7 +18,8 @@ my @FEED_URLS = (
     'http://list.iblocklist.com/?list=pbqcylkejciyhmwttify&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065',
     'http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065',
     'http://list.iblocklist.com/?list=ghlzqtqxnzctvvajwwag&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065',
-    'http://list.iblocklist.com/?list=llvtlsjyoyiczbkjsxpf&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065'
+    'http://list.iblocklist.com/?list=llvtlsjyoyiczbkjsxpf&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065',
+    'http://list.iblocklist.com/?list=xpbqleszmajjesnzddhv&fileformat=p2p&archiveformat=gz&username=FADMHofstad&pin=872065'
 );
 
 sub fetch_and_parse_blocklists {
