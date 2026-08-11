@@ -18,11 +18,11 @@ Use code with caution.
 
 This module integrates with five premium threat tracking endpoints mapped directly to specialized malicious classification profiles: 
 
-* **Feed 1 (dufcxgnbjsdwmwctgfuj):** Managed infrastructure tracking nodes.
-* **Feed 2 (pbqcylkejciyhmwttify):** Verified proxy layers and anonymous routing pathways.
+* **Feed 1 (dufcxgnbjsdwmwctgfuj):** IP ranges of people who we have found to be sharing child pornography in the p2p community.
+* **Feed 2 (pbqcylkejciyhmwttify):** Addresses that have been indentified distributing malware during the past 30 days 
 * **Feed 3 (czvaehmjpsnwwttrdoyl):** Exploitation sources, script vectors, and command controllers.
-* **Feed 4 (ghlzqtqxnzctvvajwwag):** Aggressive scanning elements and dictionary clusters.
-* **Feed 5 (llvtlsjyoyiczbkjsxpf):** Zero-day geographic risks and network indicators.
+* **Feed 4 (ghlzqtqxnzctvvajwwag):** IP addresses related to current web server hack and exploit attempts that have been logged
+* **Feed 5 (llvtlsjyoyiczbkjsxpf):** Known malicious spyware and adware IP Address ranges.
 
 ### Repository Layout
 
