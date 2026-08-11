@@ -32,10 +32,6 @@ Targeted sectors include:
 **Audience:** Strategic Partners & Risk Managers  
 **Classification:** Confidential  
 
----
-
-## 3. Historical Critical Infrastructure Damage Index (2001–2026)
-
 This table outlines 25 years of evolving cyber threats against infrastructure.
 
 | Era / Timeline | Targeted Sectors | Key Attack Vectors | Primary Operational & Economic Damages |
